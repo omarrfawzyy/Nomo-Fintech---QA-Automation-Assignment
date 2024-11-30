@@ -1,0 +1,10 @@
+{
+  "noUsername": "",
+  "noPassword": "",
+
+  "noMatchUsername": "1@2.com",
+  "noMatchPassword": "f-o-o",
+
+  "lockedUsername": "alice@example.com",
+  "lockedPassword": "10203040"
+}
