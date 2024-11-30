@@ -4,3 +4,4 @@ Steps to run the project
 2- Change the location of application with your application path from DriverManager class path = "src/main/java/DriverManager/DriverManager.java"
 3- Change the location of main.js file with your file path from DriverManager class path = "src/main/java/DriverManager/DriverManager.java"
 4- I used Android studio emulator
+5- Report file location = "target/cucumber-reports/CucumberTestReport.json"
